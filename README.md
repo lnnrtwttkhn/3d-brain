@@ -1,5 +1,7 @@
 # How to print a brain in 3D
 
+The instructions were prepared for the setup at the [Max Planck Institute for Human Development Berlin](https://www.mpib-berlin.mpg.de/en).
+
 ## Ingredients
 To print a brain in 3D, you need:
 * [x] A brain (obviously!), specifically: a structural / anatomical scan (T1)
